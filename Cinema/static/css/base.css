@@ -323,3 +323,4 @@ a:hover { color: var(--accent); }
 .footer {
   text-align: center; padding: 24px; color: var(--muted);
   font-size: .8rem; border-top: 1px solid var(--border);
+}
